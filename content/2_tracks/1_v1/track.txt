@@ -2,7 +2,7 @@ Title: V1
 
 ----
 
-Artist: John Lengend
+Artist: John Lapointe
 
 ----
 
@@ -26,12 +26,12 @@ Duration: 123
 
 ----
 
-Text: 
+Text:
 
 ----
 
-Cover: 
+Cover:
 
 ----
 
-Mp3: 
+Mp3:
