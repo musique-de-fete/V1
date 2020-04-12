@@ -18,7 +18,6 @@ foreach($data as $track) {
     'text'       => (string)$track->text(),
     'cover'      => (string)$track->cover(),
     'mp3'        => (string)$track->mp3()
-
   ];
 
 }
