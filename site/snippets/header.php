@@ -25,7 +25,8 @@
 
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <?= css(['assets/css/reset.css','assets/css/style.css', '@auto']) ?>
-  <?= js(['assets/js/amplitude.js', '@auto']) ?>
+  
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@v5.0.3/dist/amplitude.js"></script>
 
 </head>
 
