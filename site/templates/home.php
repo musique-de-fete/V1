@@ -1,3 +1,3 @@
 <?php snippet('header') ?>
-<?php snippet('tracks') ?>
+this is home
 <?php snippet('footer') ?>

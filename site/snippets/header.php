@@ -40,5 +40,3 @@ fetch('/tracks.json')
       console.log(JSON.stringify(track));
   });
     ])?>
-
-</body>

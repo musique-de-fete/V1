@@ -2,6 +2,10 @@ Title: V1
 
 ----
 
+Category: track
+
+----
+
 Artist: John Lapointe
 
 ----
@@ -18,7 +22,7 @@ Label: Optimo
 
 ----
 
-Genre: Acid Core
+Genre: Acid Core, test
 
 ----
 
@@ -26,12 +30,12 @@ Duration: 123
 
 ----
 
-Text:
+Text: 
 
 ----
 
-Cover:
+Cover: 
 
 ----
 
-Mp3:
+Mp3: 
