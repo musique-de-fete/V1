@@ -1,3 +1,3 @@
 <?php snippet('header') ?>
-<?php snippet('mainplaylist') ?>
+<?php snippet('tracks') ?>
 <?php snippet('footer') ?>
