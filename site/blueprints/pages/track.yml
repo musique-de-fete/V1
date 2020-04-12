@@ -4,6 +4,12 @@ pages: false
 icon: 🔥
 
 fields:
+  category:
+    label: Category
+    type: radio
+    options:
+      mix: Mix
+      track: Track
   artist:
     label: Artist
     type:  tags
