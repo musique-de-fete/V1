@@ -1,0 +1,8 @@
+title: Project
+
+sections:
+  gallery:
+      type: files
+      layout: cards
+      images:
+        
