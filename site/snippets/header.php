@@ -28,4 +28,17 @@
   <?= js(['assets/js/amplitude.js', '@auto']) ?>
 
 </head>
+
 <body>
+
+  <?=js([
+fetch('/tracks.json')
+    .then(function(response) {
+      return response.json();
+    })
+    .then(function(track) {
+      console.log(JSON.stringify(track));
+  });
+    ])?>
+
+</body>
