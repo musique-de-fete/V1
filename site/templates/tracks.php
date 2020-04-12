@@ -22,6 +22,9 @@ if($genre = param('genre')) {
   <div class="track-genre">
     <?= $track->genre() ?>
   </div>
+  <div class="track-genre">
+    <?= $track->mp3() ?>
+  </div>
   <div class="track-duration">
     <?= $track->duration() ?>
   </div>
