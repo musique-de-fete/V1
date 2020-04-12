@@ -1,0 +1,33 @@
+Title: test
+
+----
+
+Artist: ok
+
+----
+
+Tracktitle: ok
+
+----
+
+Date: 
+
+----
+
+Label: i
+
+----
+
+Genre: ds
+
+----
+
+Text: 
+
+----
+
+Cover: 
+
+----
+
+Mp3: 

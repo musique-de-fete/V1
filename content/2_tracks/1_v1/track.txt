@@ -1,0 +1,37 @@
+Title: V1
+
+----
+
+Artist: John Lengend
+
+----
+
+Tracktitle: ok
+
+----
+
+Date: 2020-04-10
+
+----
+
+Label: Optimo
+
+----
+
+Genre: Acid Core
+
+----
+
+Duration: 123
+
+----
+
+Text: 
+
+----
+
+Cover: 
+
+----
+
+Mp3: 

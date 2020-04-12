@@ -1,0 +1,17 @@
+title: Tracks
+preset: page
+templates: track
+sortBy: status desc
+
+sections:
+  drafts:
+    headline: Drafts Tracks
+    type: pages
+    status: draft
+    templates: track
+
+  published:
+    headline: Published Tracks
+    type: pages
+    status: listed
+    templates: track

@@ -1,0 +1,44 @@
+title: Track
+preset: page
+pages: false
+icon: 🔥
+
+fields:
+  artist:
+    label: Artist
+    type:  tags
+    width: 1/2
+  tracktitle:
+    label: Track Title
+    type:  text
+    width: 1/2
+  date:
+    label: Année
+    type: date
+    width: 1/2
+  label:
+    label: Label
+    type: tags
+    width: 1/2
+  genre:
+    label: Genre
+    type: tags
+    width: 1/2
+  duration:
+    label: Duration
+    type: number
+    width: 1/2
+  text:
+    label: Text
+    type: textarea
+  cover:
+    type: files
+    max: 1
+    headline: Cover
+    template: cover
+    width: 1/2
+  mp3:
+    type: files
+    max: 1
+    headline: MP3 url
+    width: 1/2

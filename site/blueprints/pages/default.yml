@@ -1,0 +1,12 @@
+title: Default Page
+preset: page
+options:
+  changeTemplate:
+    admin: true
+    delete: flase
+
+fields:
+  text:
+    label: Text
+    type: textarea
+    size: large
