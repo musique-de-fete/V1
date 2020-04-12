@@ -10,6 +10,12 @@ foreach($data as $track) {
     'title' => (string)$track->title(),
     'text'  => (string)$track->text(),
     'date'  => (string)$track->date()
+    'date'  => (string)$track->date()
+    'date'  => (string)$track->date()
+    'date'  => (string)$track->date()
+    'date'  => (string)$track->date()
+    'date'  => (string)$track->date()
+
   ];
 
 }
